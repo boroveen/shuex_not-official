@@ -1,4 +1,4 @@
 vk.py @ https://github.com/yilbegan/vk.py/archive/master.zip
 toml
 aiohttp
-watchdog
+watchgod
