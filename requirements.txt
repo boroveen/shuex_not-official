@@ -1,2 +1,2 @@
-vk.py
+vk.py @ https://github.com/yilbegan/vk.py/archive/master.zip
 toml
