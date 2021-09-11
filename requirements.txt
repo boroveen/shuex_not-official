@@ -2,3 +2,4 @@ vk.py @ https://github.com/yilbegan/vk.py/archive/master.zip
 toml
 aiohttp
 watchgod
+pydantic
