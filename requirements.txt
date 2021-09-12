@@ -1,4 +1,3 @@
-# vk.py-1.0.0a6==1.0.0
 vk.py @ https://github.com/boroveen/vk.py-1.0.0a4/archive/refs/heads/master.zip
 toml
 aiohttp
