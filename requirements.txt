@@ -1,5 +1,5 @@
 # vk.py-1.0.0a6==1.0.0
-vk.py @ https://github.com/yilbegan/vk.py-1.0.0a6/archive/master.zip
+vk.py @ https://github.com/Cl0ckHvH/vk.py-1.0.0a6/archive/refs/heads/master.zip
 toml
 aiohttp
 watchgod
